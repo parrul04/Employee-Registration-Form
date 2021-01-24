@@ -1,0 +1,2 @@
+empName, Summary, Department, Salary, lat, long, workLocation, JoningDate, CubicalLength, Lengthmwasure, CubicalWidth, widthMeasure, cubicalColor, car1Brand, car1Model, car1ModelYear, car1Trim, car1color, car1License, car2Brand, car2Model, car2ModelYear, car2Trim, car2color, car2License
+Isabel Britt,This is a test Employee Summary.,Management,"$50,000.00",34.833850°,106.748580°,Headquarters,"Jan 4, 2018",Yes,47,in,21,in,Brown,Ford,Taurus,2018,SEL,Black,TEST-0001,Ford,F150,2015,XLT,Red,Test-0002
