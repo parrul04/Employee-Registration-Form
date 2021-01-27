@@ -10,6 +10,18 @@ c. Expexted Behaivour : Actual Joining date is " Jun 4, 2018" on Employee detail
 
 
 
+
+
+
+
+
+
+
+
+
+
+STEPS TO RUN TESTS
+
 STEPS TO RUN TEST SUIT 
  py.test -s -v tests/test_suite.py --browser chrome
  or py.test -s -v tests/test_suite.py
